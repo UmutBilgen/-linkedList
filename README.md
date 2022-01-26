@@ -1,3 +1,10 @@
+ Örnek Problem
+Birden fazla derse ait öğrenci listesini saklayacak çoklu bir bağlantılı liste yapısı kurmanız beklenmektedir 3 adet girdi dosyası(mat101.txt, fiz101.txt, eng101.txt)verilmiştir. Herdosyanın başında dersin kodu ve adı yer almaktadır. Program 3 dosyanın birleşimini,ogrencidüğümlerinden oluşan çoklu listede tutmalıdır.Bir öğrenciye ilişkin ogrencidüğümü listede bir kez yer almalıdır.Ayrıca,her ogrencidüğümü,öğrencinin aldığı derslere ilişkin,dersdüğümlerine bir işaretçi tutmalıdır.
+
+
+
+
+
 Liste yapısını tuttuğum liste.h referans dosyası
 Kayıt yapısını tuttuğum kayit.h referans dosyası
 Liste yapısında olan fonksiyonlarının içeriğinin bulunduğu 
