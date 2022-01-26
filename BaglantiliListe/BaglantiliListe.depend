@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643198258 source:c:\users\umutr\onedrive\desktop\ders notları\baglantililisteproje\baglantililiste\main.cpp
+	"liste.h"
+	<iostream>
+	<cstring>
+	<locale.h>
+	<fstream>
+	<clocale>
+	<stdio.h>
+
+1643198231 c:\users\umutr\onedrive\desktop\ders notları\baglantililisteproje\baglantililiste\liste.h
+	<stdio.h>
+	"kayit.h"
+
+1621595998 c:\users\umutr\onedrive\desktop\ders notları\baglantililisteproje\baglantililiste\kayit.h
+
